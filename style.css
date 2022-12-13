@@ -1,4 +1,5 @@
 body {
+  body{
   background-color:#6A0808;
   
 }
@@ -49,5 +50,6 @@ img{
   width: 900px;
   image-rendering: auto;
   
+}
 }
 
