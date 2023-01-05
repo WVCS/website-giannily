@@ -31,10 +31,7 @@ writing-mode: horizontal-tb;
 li a:hover{
   color: #FDF2B8;
 }
-h2{
-  color:white;
-  font-family: Arial Black;
-}
+
 p{
   color:#DCAA23;
   font-size:210%;
@@ -43,13 +40,8 @@ p{
 
 
 img{
-  border: dashed;
-    border-color:#DCAA23;
     height: 600px;
   width: 900px;
   image-rendering: auto;
   
 }
-
- 
-
